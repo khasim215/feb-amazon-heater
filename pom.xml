@@ -5,7 +5,7 @@
 	<groupId>amazon-heater</groupId>
 	<artifactId>heater-code</artifactId>
 	<version>hv1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>heater-code</name>
 
